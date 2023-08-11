@@ -7,7 +7,7 @@ Designer and Website programmer
 I've been building and coding responsive websites for over three years
 
 * 🌍  I'm based in New Orleans, LA
-* 🖥️  See my portfolio at [Coming Soon](http://Jonahtylerb.tech)
+* 🖥️  See my portfolio at [Guppybyte.com](www.guppybyte.com)
 
 ### Skills
 
