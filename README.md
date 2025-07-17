@@ -1,13 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonah Brupbacher
+Hi! My name is Jonah Brupbacher
 ========================================================================================================================================
-
-Designer and Website programmer
--------------------------------
-
-I've been building and coding responsive websites for over three years
-
-* 🌍  I'm based in New Orleans, LA
-* 🖥️  See my portfolio at [Guppybyte.com](https://www.guppybyte.com)
 
 ### Skills
 
